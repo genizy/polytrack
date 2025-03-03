@@ -5,7 +5,7 @@
 <!DOCTYPE html>
 <html>
 	<head>
-		<base href="https://cdn.jsdelivr.net/gh/genizy/polytrack@6dfd53d7e84af5804630d76db7931426095f0609/">
+		<base href="https://cdn.jsdelivr.net/gh/genizy/polytrack@77fe2d0eb227742ee820af6c4c7c48da3237640a/">
 		<meta name="viewport" content="width=device-width, initial-scale=1, minimum-scale=1, maximum-scale=1, user-scalable=no">
 	</head>
 	<body>
@@ -13,7 +13,7 @@
 		<div id="ui"></div>
 		<div id="transition-layer"></div>
 
-		<script type="module" src="https://cdn.jsdelivr.net/gh/genizy/polytrack@6dfd53d7e84af5804630d76db7931426095f0609/main.bundle.js" defer></script>
+		<script type="module" src="https://cdn.jsdelivr.net/gh/genizy/polytrack@77fe2d0eb227742ee820af6c4c7c48da3237640a/main.bundle.js" defer></script>
 	</body>
 </html>
 ]]>
